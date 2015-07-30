@@ -1,0 +1,2 @@
+META-INF/services/javax.annotation.processing.Processor
+org/jboss/gwt/elemento/processor/TemplatedGinProcessor.class
