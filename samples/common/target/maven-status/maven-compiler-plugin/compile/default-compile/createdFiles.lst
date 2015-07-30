@@ -1,0 +1,5 @@
+org/jboss/gwt/elemento/sample/common/UUID.class
+org/jboss/gwt/elemento/sample/common/BeanFactory.class
+org/jboss/gwt/elemento/sample/common/TodoMessages.class
+org/jboss/gwt/elemento/sample/common/TodoItem.class
+org/jboss/gwt/elemento/sample/common/TodoItemRepository.class
