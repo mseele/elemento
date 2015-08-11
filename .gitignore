@@ -1,0 +1,10 @@
+*.iml
+*.bak
+.DS_Store
+.idea
+.settings
+.project
+.classpath
+core
+target
+samples
