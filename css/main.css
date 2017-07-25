@@ -57,13 +57,16 @@ textarea {
    ========================================================================== */
 
 html {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 1.3rem;
+    color: #eee;
+    font-family: 'Overpass', sans-serif;
+    font-size: 1rem;
+    font-weight: 300;
     line-height: 1.6;
 }
 
 body {
-    margin: 0 2rem;
+    background-color: #2f3135;
+    margin: 1rem 1rem;
 }
 
 h1 {
@@ -72,13 +75,35 @@ h1 {
     font-style: italic;
 }
 
+a {
+    color: #ffa000;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
 
 /* ==========================================================================
    Media Queries
    ========================================================================== */
 
 @media only screen and (min-width: 35em) {
+    html {
+        font-size: 1.2rem;
+    }
+    body {
+        margin: 1rem 3rem;
+    }
+}
 
+@media only screen and (min-width: 65em) {
+    html {
+        font-size: 1.4rem;
+    }
+    body {
+        margin: 1rem 6rem;
+    }
 }
 
 @media print,
