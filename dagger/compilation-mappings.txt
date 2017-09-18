@@ -1,4 +1,4 @@
-A986933420C4FD26550C38A7DC596F61.cache.js
+642EBE758FB23E3D7A87DF80AEA1D55E.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -10,14 +10,8 @@ compiler.useSymbolMaps false
 dragEventSupport maybe
 gwt.enableDebugId false
 gwt.forceBidi false
-gwt.logging.consoleHandler DISABLED
-gwt.logging.developmentModeHandler DISABLED
-gwt.logging.enabled SEVERE
-gwt.logging.hasWidgetsHandler DISABLED
-gwt.logging.logLevel INFO
-gwt.logging.simpleConsoleHandler DISABLED
-gwt.logging.simpleRemoteHandler DISABLED
-gwt.logging.systemHandler DISABLED
+gwt.logging.enabled FALSE
+gwt.logging.simpleConsoleHandler ENABLED
 gwt.suppressNonStaticFinalFieldWarnings false
 history.noDoubleEncoding false
 jre.checkedMode DISABLED
@@ -27,8 +21,8 @@ jre.checks.checkLevel NORMAL
 jre.checks.numeric AUTO
 jre.checks.type AUTO
 jre.debugMode DISABLED
-jre.logging.logLevel SEVERE
-jre.logging.simpleConsoleHandler DISABLED
+jre.logging.logLevel OFF
+jre.logging.simpleConsoleHandler ENABLED
 jsinterop.checks DISABLED
 locale default
 rpc.XserializeFinalFields false
@@ -38,7 +32,7 @@ user.agent gecko1_8
 videoElementSupport maybe
 webApiUsage modern
 
-A986933420C4FD26550C38A7DC596F61.cache.js
+642EBE758FB23E3D7A87DF80AEA1D55E.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -50,14 +44,8 @@ compiler.useSymbolMaps false
 dragEventSupport maybe
 gwt.enableDebugId false
 gwt.forceBidi false
-gwt.logging.consoleHandler DISABLED
-gwt.logging.developmentModeHandler DISABLED
-gwt.logging.enabled SEVERE
-gwt.logging.hasWidgetsHandler DISABLED
-gwt.logging.logLevel INFO
-gwt.logging.simpleConsoleHandler DISABLED
-gwt.logging.simpleRemoteHandler DISABLED
-gwt.logging.systemHandler DISABLED
+gwt.logging.enabled FALSE
+gwt.logging.simpleConsoleHandler ENABLED
 gwt.suppressNonStaticFinalFieldWarnings false
 history.noDoubleEncoding false
 jre.checkedMode DISABLED
@@ -67,8 +55,8 @@ jre.checks.checkLevel NORMAL
 jre.checks.numeric AUTO
 jre.checks.type AUTO
 jre.debugMode DISABLED
-jre.logging.logLevel SEVERE
-jre.logging.simpleConsoleHandler DISABLED
+jre.logging.logLevel OFF
+jre.logging.simpleConsoleHandler ENABLED
 jsinterop.checks DISABLED
 locale default
 rpc.XserializeFinalFields false
@@ -78,7 +66,7 @@ user.agent ie10
 videoElementSupport maybe
 webApiUsage modern
 
-A986933420C4FD26550C38A7DC596F61.cache.js
+642EBE758FB23E3D7A87DF80AEA1D55E.cache.js
 ClientBundle.enableInlining true
 audioElementSupport no
 canvasElementSupport no
@@ -90,14 +78,8 @@ compiler.useSymbolMaps false
 dragEventSupport no
 gwt.enableDebugId false
 gwt.forceBidi false
-gwt.logging.consoleHandler DISABLED
-gwt.logging.developmentModeHandler DISABLED
-gwt.logging.enabled SEVERE
-gwt.logging.hasWidgetsHandler DISABLED
-gwt.logging.logLevel INFO
-gwt.logging.simpleConsoleHandler DISABLED
-gwt.logging.simpleRemoteHandler DISABLED
-gwt.logging.systemHandler DISABLED
+gwt.logging.enabled FALSE
+gwt.logging.simpleConsoleHandler ENABLED
 gwt.suppressNonStaticFinalFieldWarnings false
 history.noDoubleEncoding false
 jre.checkedMode DISABLED
@@ -107,8 +89,8 @@ jre.checks.checkLevel NORMAL
 jre.checks.numeric AUTO
 jre.checks.type AUTO
 jre.debugMode DISABLED
-jre.logging.logLevel SEVERE
-jre.logging.simpleConsoleHandler DISABLED
+jre.logging.logLevel OFF
+jre.logging.simpleConsoleHandler ENABLED
 jsinterop.checks DISABLED
 locale default
 rpc.XserializeFinalFields false
@@ -118,7 +100,7 @@ user.agent ie8
 videoElementSupport no
 webApiUsage modern
 
-A986933420C4FD26550C38A7DC596F61.cache.js
+642EBE758FB23E3D7A87DF80AEA1D55E.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -130,14 +112,8 @@ compiler.useSymbolMaps false
 dragEventSupport maybe
 gwt.enableDebugId false
 gwt.forceBidi false
-gwt.logging.consoleHandler DISABLED
-gwt.logging.developmentModeHandler DISABLED
-gwt.logging.enabled SEVERE
-gwt.logging.hasWidgetsHandler DISABLED
-gwt.logging.logLevel INFO
-gwt.logging.simpleConsoleHandler DISABLED
-gwt.logging.simpleRemoteHandler DISABLED
-gwt.logging.systemHandler DISABLED
+gwt.logging.enabled FALSE
+gwt.logging.simpleConsoleHandler ENABLED
 gwt.suppressNonStaticFinalFieldWarnings false
 history.noDoubleEncoding false
 jre.checkedMode DISABLED
@@ -147,8 +123,8 @@ jre.checks.checkLevel NORMAL
 jre.checks.numeric AUTO
 jre.checks.type AUTO
 jre.debugMode DISABLED
-jre.logging.logLevel SEVERE
-jre.logging.simpleConsoleHandler DISABLED
+jre.logging.logLevel OFF
+jre.logging.simpleConsoleHandler ENABLED
 jsinterop.checks DISABLED
 locale default
 rpc.XserializeFinalFields false
@@ -158,7 +134,7 @@ user.agent ie9
 videoElementSupport maybe
 webApiUsage modern
 
-A986933420C4FD26550C38A7DC596F61.cache.js
+642EBE758FB23E3D7A87DF80AEA1D55E.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -170,14 +146,8 @@ compiler.useSymbolMaps false
 dragEventSupport maybe
 gwt.enableDebugId false
 gwt.forceBidi false
-gwt.logging.consoleHandler DISABLED
-gwt.logging.developmentModeHandler DISABLED
-gwt.logging.enabled SEVERE
-gwt.logging.hasWidgetsHandler DISABLED
-gwt.logging.logLevel INFO
-gwt.logging.simpleConsoleHandler DISABLED
-gwt.logging.simpleRemoteHandler DISABLED
-gwt.logging.systemHandler DISABLED
+gwt.logging.enabled FALSE
+gwt.logging.simpleConsoleHandler ENABLED
 gwt.suppressNonStaticFinalFieldWarnings false
 history.noDoubleEncoding false
 jre.checkedMode DISABLED
@@ -187,8 +157,8 @@ jre.checks.checkLevel NORMAL
 jre.checks.numeric AUTO
 jre.checks.type AUTO
 jre.debugMode DISABLED
-jre.logging.logLevel SEVERE
-jre.logging.simpleConsoleHandler DISABLED
+jre.logging.logLevel OFF
+jre.logging.simpleConsoleHandler ENABLED
 jsinterop.checks DISABLED
 locale default
 rpc.XserializeFinalFields false
